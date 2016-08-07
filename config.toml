@@ -13,7 +13,7 @@ copyright = "&copy; Copyright notice"
     instagram = "amyshi817"
     author = "Amy Shi"
     # avatar = "/path/to/avatar"
-    contact = "Your contact link (ex. mailto:foo@example.com)"
+    contact = "mailto:amyshi@virginia.edu"
     bio = "Your short bio"
     # Short subtitle/tagline. This is displayed in the header.
     subtitle = "Student | Software Developer | Bookworm"
