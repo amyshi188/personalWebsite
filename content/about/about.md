@@ -4,4 +4,4 @@ title = "About me"
 
 +++
 
-Hello I am bort
+Hello, my name is Amy Shi. I am a fourth-year undergraduate computer science major at the University of Virginia.
