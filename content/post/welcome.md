@@ -4,4 +4,4 @@ title = "welcome"
 
 +++
 
-Hello
+[Follow my blog with Bloglovin](http://www.bloglovin.com/blog/18177191/?claim=n7vc8pwmsev)
