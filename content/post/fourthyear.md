@@ -3,11 +3,8 @@ date = "2016-08-19T18:39:44-04:00"
 title = "UVA, Take 4"
 tags = [ "UVA", "college" ]
 categories = [ "school" ]
-postimage = "/rotunda_winter.JPG"
 
 +++
-
-![winterRotunda](/rotunda_winter.JPG)
 
 It hasn't really sunk in yet that I am entering my last year of college. Looking back on it, time has really flown by. As a high school senior, I was skeptical of those who told me that time in college passed by even faster than high school (which in my experience, passed by fairly slowly). In my eager, teenage mind, four years sounded like a long time. It was four years of learning to be independent and making my own decisions about what I wanted to do in the future. Four entire years to meet new people and feel lucky that I was accepted into my dream school. 
 
