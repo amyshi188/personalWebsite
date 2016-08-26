@@ -15,3 +15,5 @@ dogs and hope to own one in the future. I drink a lot of coffee and tea and choc
 
 I had been toying with the idea of making my own website as a way of documenting my experiences transitioning from college to the post-graduate life, since I'll be graduating
 soon and my life will be changing significantly. Hopefully this can be an interesting read for you as well.
+
+Side note: While I definitely do not consider myself a photographer, sometimes I enjoy taking nice pictures and editing them. [Here](https://plaidshirtdays.vsco.co) is the link to my Vsco page if you want to take a look! 
