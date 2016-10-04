@@ -1,0 +1,43 @@
+to make a new post:
+hugo new post/[postname].md
+
+to start the server via windows command: 
+hugo server -t vienna
+
+*To kill the server
+ps -ef | grep hugo
+[Log in as root using the su command]
+[Kill the process that has Hugo server in its name]
+ex: kill 24917
+
+*To start the server
+[Navigate to Hugo server top-level directory]
+[Log in as root using the su command]
+./runServer.sh
+Ctrl+Z
+bg
+
+*After updating the Vienna theme:
+(On your PC)
+[Navigate to Vienna theme folder]
+git add --all
+git commit -m "Your message here"
+git push
+
+(On server)
+[Kill the server first]
+[Navigate to the Vienna theme folder]
+git pull
+
+*After updating your website (i.e. wrote a new post)
+(On your PC)
+[Navigate to top-level directory of the Hugo website]
+git add --all
+git commit -m "Your message here"
+git push
+
+(On your server)
+[Kill the current server process]
+git pull
+hugo -t vienna
+[Start the server]

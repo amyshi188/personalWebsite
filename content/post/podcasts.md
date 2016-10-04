@@ -1,0 +1,21 @@
++++
+date = "2016-10-03T18:39:22-04:00"
+title = "Podcasts"
+categories = [ "Hobbies" ]
+postimage = "/podcast.jpg"
+
++++
+
+![podcast](/podcast.jpg)
+
+I spend a lot of time on transportation. Aside from when I get rides to the grocery store or to destinations farther out in the area, I rely on bus and walking to get to places. The combined time spent waiting at bus stops and sitting through traffic ends up being quite a lot, so in order to distract myself from the thoughts of all the tasks I have to get done for the day, I like to listen to things on my phone.
+
+I used to purely listen to music, but I haven't been able to find very much new music suiting my tastes lately so I needed some variety. I remembered from a coffee chat with friend last year that she had mentioned her love of podcasts. I also read online somewhere that podcasts are like "blogs that you can listen to" and I liked that description. I thought that would be an interesting medium to gain more knowledge about things not traditionally taught at school, so that's what I've been experimenting with for the past few weeks.
+
+Of course, I'm not an expert on this so I'm not here to write a detailed analysis of any specific podcast. I have done my research and sifted through the choices recommended on Overcast - the application I use on my phone to manage podcasts - but I am also not a long-time listener and have a lot to learn. That being said, here are my current favorites:
+
+**Stuff You Should Know** - It only took an episode or two to make me love this podcast. The title says it all: it is comprised of discussions about anything and everything. You get to learn about subjects ranging from violins to polar bears to exploding head syndrome. Today I listened to an episode on food tasters and it was extremely interesting and informative (Did you know that it is not unusual to have to taste two hundred and fifty different variations of ice cream during a work day?). I hope that one day I will land in situations where knowing such things will come in handy. Not to mention that the hosts Chuck and Josh are conversational and humorous, which keeps listeners interested.
+
+**The Moth** - This one differs from the previous podcast because it is personal and not factually-based. Each episode is broken into multiple stories told by people at live shows while standing under a single spotlight that illuminates them, hence the name "The Moth". Each story is short, but expresses so much emotion and really shows you how every person on this planet is living a very different life. As someone who enjoys people-watching, I often think about how strange that is, that all these people I pass by on the streets and on public transportation are going somewhere. Each turn of events will lead to something else, and a year from now, those same people could be in completely different circumstances. They could be halfway across the world for all I know. Listening to The Moth not only helps me appreciate the art of storytelling, but also realize that every person out in the world is experiencing something extremely different. It really opens your eyes to the countless possibilities in life.
+
+**Radiolab** - I think of this podcast as interdisciplinary because it combines science, technology, and culture together. It is rather difficult to describe what the podcast focuses on because of its breadth. In each episode, the hosts pick "one big idea" to discuss, and it could be anything that is intriguing. The first episode that caught my attention was one about a girl who did not exist. That kind of title makes you wonder how such a thing is possible. The beauty of Radiolab is it takes a complex idea that many would be intimidated by or wouldn't think of and breaks it down using its unique sound editing, which mixes in background sound effects and switching between multiple narrators (although to be honest, sometimes the interweaving of voices gets confusing and detracts from the story) to make it easier for its audience to digest. It starts off with a story that centers around a central idea or question. But ultimately, the hosts are not trying to answer the question because it is often not that simple; rather, they are bringing awareness to certain topics and giving people the chance to contemplate them.
