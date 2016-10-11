@@ -4,7 +4,7 @@ title = "About Me"
 
 +++
 
-![profilePicture](/amy_dog.jpg)
+![profilePicture](/amy.jpg)
 
 Hello! My name is Amy and I am a fourth year student at the University of Virginia. I'm studying computer science and aspire to be a full stack developer after I graduate, as I have 
 an interest in both back-end and front-end development. 
