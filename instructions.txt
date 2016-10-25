@@ -17,16 +17,16 @@ ex: kill 24917
 Ctrl+Z
 bg
 
-*After updating the Vienna theme:
+*After updating the theme:
 (On your PC)
-[Navigate to Vienna theme folder]
+[Navigate to theme folder]
 git add --all
 git commit -m "Your message here"
 git push
 
 (On server)
 [Kill the server first]
-[Navigate to the Vienna theme folder]
+[Navigate to the theme folder]
 git pull
 
 *After updating your website (i.e. wrote a new post)
@@ -39,5 +39,5 @@ git push
 (On your server)
 [Kill the current server process]
 git pull
-hugo -t vienna
+hugo -t cocoa
 [Start the server]
