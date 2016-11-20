@@ -1,6 +1,7 @@
 +++
 date = "2016-08-19T18:39:44-04:00"
 title = "UVA, Take 4"
+tags = [ "college" ]
 
 +++
 

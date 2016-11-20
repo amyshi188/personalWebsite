@@ -2,6 +2,7 @@
 date = "2016-10-25T01:22:57-04:00"
 draft = false
 title = "Pumpkin Carving"
+tags = [ "lifestyle" ]
 menu = ""
 banner = "basilpumpkin.JPG"
 
