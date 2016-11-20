@@ -48,24 +48,26 @@ theme = "hugo-icarus-theme"
   #  label  = "Tags"
   #  link   = "tags/"
 
-[[params.menu]]
-    before = false
-    label  = "Categories"
-    link   = "categories/"
+#[[params.menu]]
+#    before = false
+#    label  = "Categories"
+#    link   = "categories/"
 
-[[params.menu]]
-    before = false
-    label  = "Experience"
-    link   = "experience/"
 
 [[params.menu]]
     before = false
     label  = "About"
     link   = "about/"
 
+
+[[params.menu]]
+    before = false
+    label  = "Experience"
+    link   = "experience/"
+
 # Enter a link for the follow button on the left
-#[params.profile]
-#    follow_button = "https://github.com/amyshi188"
+[params.profile]
+   follow_button = "https://github.com/amyshi188"
 
 
 [social]

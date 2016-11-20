@@ -2,6 +2,8 @@
 date = "2016-10-25T01:22:57-04:00"
 draft = false
 title = "Pumpkin Carving"
+menu = ""
+banner = "basilpumpkin.JPG"
 
 +++
 
@@ -15,9 +17,5 @@ In the past, whenever I got to the event on time, there weren't many people ther
 
 I had never carved a pumpkin prior to this day. I always thought I'd be terrible at it because it just does not seem like a very flexible canvas to work on. I have seen people's pictures of their finished pumpkins before and they carved elaborate designs of people's faces, calligraphy, and animals and I just could not picture myself being able to create anything even close to that. I decided to give it a try today and it turned out to be a success I would say! 
 
-![pumpkinCarving](/pumpkincarving.JPG)
-
-I had pumpkin flesh all over my hands from trying to scrape it out and some pieces got in my hair so it was a pretty messy experience, but I didn't mind because I am proud of what I came up with. I thought this was appropriate because my roommate has the most adorable six-month-old kitten.
-
-![basilPumpkin](/basilpumpkin.JPG)
+![Me with my first attempt at pumpkin carving.](/pumpkincarving.JPG)
 

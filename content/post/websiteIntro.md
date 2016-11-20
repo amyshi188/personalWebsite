@@ -1,13 +1,11 @@
 +++
 date = "2016-08-30T22:29:20-04:00"
 title = "Behind the Scenes"
-tags = [ "projects", "engineering"  ]
-categories = [ "Software" ]
 postimage = "/hugo-logo.png"
 
 +++
 
-![hugoLogo](/hugo-logo.png)
+![Hugo Logo](/hugo-logo.png)
 
 As I mentioned briefly in my About page, I started this website as a side project because I wanted a place to record my thoughts and the changes in my life that will occur as I near graduation and after I become a full-fledged adult (I know, I have technically been an adult for a while now but considering I've been in school the entire time, the transition has not felt significant). I also became interested in front-end development this summer during my internship and I thought this would be a good way to hone my skills. I have spent more of my coursework on backend development, so as an aspiring full-stack engineer, I should be familiar with both ends of the spectrum.
 

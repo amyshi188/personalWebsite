@@ -5,7 +5,7 @@ postimage = "/podcast.jpg"
 
 +++
 
-![podcast](/podcast.jpg)
+![Overcast screenshot](/podcast.jpg)
 
 I spend a lot of time on transportation. Aside from when I get rides to the grocery store or to destinations farther out in the area, I rely on bus and walking to get to places. The combined time spent waiting at bus stops and sitting through traffic ends up being quite a lot, so in order to distract myself from the thoughts of all the tasks I have to get done for the day, I like to listen to things on my phone.
 
