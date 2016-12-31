@@ -2,7 +2,7 @@ to make a new post:
 hugo new post/[postname].md
 
 to start the server via windows command: 
-hugo server -t vienna
+hugo server -t hugo-icarus-theme
 
 *To kill the server
 ps -ef | grep hugo
@@ -39,5 +39,5 @@ git push
 (On your server)
 [Kill the current server process]
 git pull
-hugo -t cocoa
+hugo -t hugo-icarus-theme
 [Start the server]
