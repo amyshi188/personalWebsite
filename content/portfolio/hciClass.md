@@ -17,7 +17,7 @@ For my Human Computer-Interaction class last semester, my group and I designed a
     "/Prototypes_and_Mockups/HCI_Animal_Transformations/signInError.png"
     "/Prototypes_and_Mockups/HCI_Animal_Transformations/homeLoggedIn.png"
     "/Prototypes_and_Mockups/HCI_Animal_Transformations/Profile.png"
-    "/Prototypes_and_Mockups/HCI_Animal_Transformations/Gallery.png"
+    "/Prototypes_and_Mockups/HCI_Animal_Transformations/gallery.png"
     "/Prototypes_and_Mockups/HCI_Animal_Transformations/Settings.png"
     "/Prototypes_and_Mockups/HCI_Animal_Transformations/searchResults.png"
     "/Prototypes_and_Mockups/HCI_Animal_Transformations/currentAnimal.png"
