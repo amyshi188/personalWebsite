@@ -65,6 +65,11 @@ theme = "hugo-icarus-theme"
     label  = "Experience"
     link   = "experience/"
 
+[[params.menu]]
+    before = false
+    label  = "Design Portfolio"
+    link   = "portfolio/"    
+
 # Enter a link for the follow button on the left
 [params.profile]
    follow_button = "https://github.com/amyshi188"
