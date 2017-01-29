@@ -7,7 +7,7 @@ title = "About Me"
 ![](/amyshi.JPG)
 
 Hello! My name is Amy and I am a fourth year student at the University of Virginia. I'm studying computer science and I have 
-an interest in both back-end and front-end development, as well as technical product management. 
+an interest in front-end development as well as technical product management and product design. 
 
 
 During my free time, I enjoy reading ([Goodreads](http://www.goodreads.com/user/show/33768610-amy)), writing, and spending time with my pet rabbit. I also adore
